@@ -9,3 +9,4 @@ run(alertService, componentService);
 
 
 console.log('Hi ')
+console.log('Hi ')
